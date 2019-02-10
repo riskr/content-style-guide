@@ -3,21 +3,19 @@ title: Writing Goals and Principles
 layout: article
 ---
 
-With every piece of content we publish, we aim to:
+With every piece of service we publish, we aim to:
 
-* **Empower.** Help people understand Mailchimp by using language that informs them and encourages them to make the most of our products.
+* **Empower.** Help people understand about gov services by using language that informs them and make it easier to navigate through the service seamlessly.
 
-* **Respect.** Treat readers with the respect they deserve. Put yourself in their shoes, and don’t patronize them. Remember that they have other things to do. Be considerate and inclusive. Don’t market at people; communicate with them.
+* **Respect.** Treat users with the respect they deserve. Put yourself in their shoes, and don’t patronize them. Remember that they have other things to do. Be considerate and inclusive. Don’t market at people; communicate with them and help them find what they are looking for easily.
 
-* **Educate.** Tell readers what they need to know, not just what we want to say. Give them the exact information they need, along with opportunities to learn more. Remember that you’re the expert, and readers don’t have access to everything you know.
+* **Educate.** Tell users what they need to know about every service. Give them the exact information they need, along with opportunities to learn more. Remember that you’re the expert, and readers don’t have access to everything you know.
 
-* **Guide.** Think of yourself as a tour guide for our readers. Whether you’re leading them through our educational materials or a task in our app, communicate in a friendly and helpful way.
-
-* **Speak truth.** Understand Mailchimp's place in our users’ lives. Avoid dramatic storytelling and grandiose claims. Focus on our real strengths.
+* **Guide.** Think of yourself as a tour guide for our users. Whether you’re leading them through our educational materials or faqs or any given service, communicate in a friendly and helpful way.
 
 In order to achieve those goals, we make sure our content is:
 
-* **Clear.** Understand the topic you’re writing about. Use simple words and sentences.
+* **Clear.** Understand the service you’re writing about. Use simple words and sentences.
 
 * **Useful.** Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
 
